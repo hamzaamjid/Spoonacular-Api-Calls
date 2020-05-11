@@ -8,7 +8,7 @@ const options = {
     url: 'https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/recipes/417357/analyzedInstructions?stepBreakdown=true',
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '####', // add your key here instead of the number sign
+        'X-RapidAPI-Key': '####', // add your key here
         'X-RapidAPI-Host': 'spoonacular-recipe-food-nutrition-v1.p.rapidapi.com'
     }
 }
